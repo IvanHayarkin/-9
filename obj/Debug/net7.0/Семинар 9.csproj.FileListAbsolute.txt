@@ -1,0 +1,15 @@
+D:\github\Семинар 9\obj\Debug\net7.0\Семинар 9.csproj.AssemblyReference.cache
+D:\github\Семинар 9\obj\Debug\net7.0\Семинар 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\Семинар 9\obj\Debug\net7.0\Семинар 9.AssemblyInfoInputs.cache
+D:\github\Семинар 9\obj\Debug\net7.0\Семинар 9.AssemblyInfo.cs
+D:\github\Семинар 9\obj\Debug\net7.0\Семинар 9.csproj.CoreCompileInputs.cache
+D:\github\Семинар 9\bin\Debug\net7.0\Семинар 9.exe
+D:\github\Семинар 9\bin\Debug\net7.0\Семинар 9.deps.json
+D:\github\Семинар 9\bin\Debug\net7.0\Семинар 9.runtimeconfig.json
+D:\github\Семинар 9\bin\Debug\net7.0\Семинар 9.dll
+D:\github\Семинар 9\bin\Debug\net7.0\Семинар 9.pdb
+D:\github\Семинар 9\obj\Debug\net7.0\Семинар 9.dll
+D:\github\Семинар 9\obj\Debug\net7.0\refint\Семинар 9.dll
+D:\github\Семинар 9\obj\Debug\net7.0\Семинар 9.pdb
+D:\github\Семинар 9\obj\Debug\net7.0\Семинар 9.genruntimeconfig.cache
+D:\github\Семинар 9\obj\Debug\net7.0\ref\Семинар 9.dll
